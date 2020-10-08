@@ -1,2 +1,2 @@
 # four-card-feature-section
-Frontend Mentor Challenge
+My submission for the Frontend Mentor Challenge.
